@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JuanBetterZapia</string>
+    <string name="notification_listener_service_name">JuanBetterZapia Listener</string>
+    <string name="notification_listener_service_desc">Permite a JuanBetterZapia detectar notificaciones de mensajes entrantes para reenviarlos al webhook de forma segura.</string>
+</resources>
